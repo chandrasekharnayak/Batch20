@@ -21,3 +21,8 @@ Selecting the right test cases is crucial for efficient regression testing. This
 Example:
 Imagine a software application that allows users to manage their online accounts. After a new feature is added to enable password resets, regression testing would involve re-running test cases related to the account management functionality, such as: Logging in and out of the account, Changing passwords, Managing user profiles, and Verifying account details.
 This ensures that the new password reset feature doesn't introduce any bugs or break existing account management functionalities. 
+
+Abcd
+DCBA
+XYZ
+ZXY
